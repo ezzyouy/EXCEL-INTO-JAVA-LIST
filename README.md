@@ -2,7 +2,7 @@
 
 ## Method
 ### Firstly
-_add the dependency:_  
+__add the dependency:__  
   
 \<dependency\>  
   \<groupId\>com.github.ozlerhakan\</groupId\>  
@@ -12,7 +12,7 @@ _add the dependency:_
 
 
 ### Secondly 
-create entity with using _jpa_ and _poiji_ annotation
+create entity with using __jpa__ and __poiji__ annotation
 
 ## Screen Result
 
