@@ -3,14 +3,14 @@
 ## Method
 ### Firstly add the dependency:
 
-\<dependency\>\n
-  \<groupId\>com.github.ozlerhakan\</groupId\>\n
-  \<artifactId\>poiji\</artifactId\>\n
-  \<version\>3.1.1\</version\>\n
-\</dependency\>\n
+\<dependency\>  
+  \<groupId\>com.github.ozlerhakan\</groupId\>  
+  \<artifactId\>poiji\</artifactId\>  
+  \<version\>3.1.1\</version\> 
+\</dependency\>  
 
 
-### Secondly create entity with using jpa and poiji annotation
+### Secondly create entity with using _jpa_ and _poiji_ annotation
 
 ## Screen Result
 
