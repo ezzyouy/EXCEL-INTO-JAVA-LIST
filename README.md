@@ -1,8 +1,9 @@
 # Convert Excel data into List of java
 
 ## Method
-### Firstly add the dependency:
-
+### Firstly
+_add the dependency:_  
+  
 \<dependency\>  
   \<groupId\>com.github.ozlerhakan\</groupId\>  
   \<artifactId\>poiji\</artifactId\>  
@@ -10,7 +11,8 @@
 \</dependency\>  
 
 
-### Secondly create entity with using _jpa_ and _poiji_ annotation
+### Secondly 
+create entity with using _jpa_ and _poiji_ annotation
 
 ## Screen Result
 
